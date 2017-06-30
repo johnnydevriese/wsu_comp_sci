@@ -1,0 +1,7 @@
+Mutation(s) found in sequence 1 
+pair 1 flipped pair 
+ pair 11 mismatched pair 
+ pair 14 mismatched pair 
+Mutation(s) found in sequence 2 
+ pair 3 mismatched pair 
+pair 5 flipped pair 

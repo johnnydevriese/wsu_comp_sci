@@ -1,0 +1,26 @@
+J:\Tutorials\DiceGame\DiceGame\bin\Debug\DiceGame.exe
+J:\Tutorials\DiceGame\DiceGame\bin\Debug\DiceGame.pdb
+J:\Tutorials\DiceGame\DiceGame\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Tutorials\DiceGame\DiceGame\obj\x86\Debug\DiceGame.Form1.resources
+J:\Tutorials\DiceGame\DiceGame\obj\x86\Debug\DiceGame.Properties.Resources.resources
+J:\Tutorials\DiceGame\DiceGame\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\Tutorials\DiceGame\DiceGame\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\Tutorials\DiceGame\DiceGame\obj\x86\Debug\DiceGame.exe
+J:\Tutorials\DiceGame\DiceGame\obj\x86\Debug\DiceGame.pdb
+J:\Tutorials\Part 1\DiceGame\DiceGame\obj\x86\Debug\DiceGame.exe
+J:\Tutorials\Part 1\DiceGame\DiceGame\obj\x86\Debug\DiceGame.pdb
+J:\Tutorials\Part 1\DiceGame\DiceGame\bin\Debug\DiceGame.exe
+J:\Tutorials\Part 1\DiceGame\DiceGame\bin\Debug\DiceGame.pdb
+J:\Tutorials\Part 1\DiceGame\DiceGame\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Tutorials\Part 1\DiceGame\DiceGame\obj\x86\Debug\DiceGame.Form1.resources
+J:\Tutorials\Part 1\DiceGame\DiceGame\obj\x86\Debug\DiceGame.Properties.Resources.resources
+J:\Tutorials\Part 1\DiceGame\DiceGame\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\Tutorials\Part 1\DiceGame\DiceGame\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\johnny\Dropbox\cpts_122\pa8\DiceGamePart1\Dice Game Tutorial Part 1\DiceGame\DiceGame\obj\x86\Debug\DiceGame.exe
+C:\Users\johnny\Dropbox\cpts_122\pa8\DiceGamePart1\Dice Game Tutorial Part 1\DiceGame\DiceGame\obj\x86\Debug\DiceGame.pdb
+C:\Users\johnny\Dropbox\cpts_122\pa8\DiceGamePart1\Dice Game Tutorial Part 1\DiceGame\DiceGame\bin\Debug\DiceGame.exe
+C:\Users\johnny\Dropbox\cpts_122\pa8\DiceGamePart1\Dice Game Tutorial Part 1\DiceGame\DiceGame\bin\Debug\DiceGame.pdb
+C:\Users\johnny\Dropbox\cpts_122\pa8\DiceGamePart1\Dice Game Tutorial Part 1\DiceGame\DiceGame\obj\x86\Debug\DiceGame.csprojResolveAssemblyReference.cache
+C:\Users\johnny\Dropbox\cpts_122\pa8\DiceGamePart1\Dice Game Tutorial Part 1\DiceGame\DiceGame\obj\x86\Debug\DiceGame.Form1.resources
+C:\Users\johnny\Dropbox\cpts_122\pa8\DiceGamePart1\Dice Game Tutorial Part 1\DiceGame\DiceGame\obj\x86\Debug\DiceGame.Properties.Resources.resources
+C:\Users\johnny\Dropbox\cpts_122\pa8\DiceGamePart1\Dice Game Tutorial Part 1\DiceGame\DiceGame\obj\x86\Debug\DiceGame.csproj.GenerateResource.Cache

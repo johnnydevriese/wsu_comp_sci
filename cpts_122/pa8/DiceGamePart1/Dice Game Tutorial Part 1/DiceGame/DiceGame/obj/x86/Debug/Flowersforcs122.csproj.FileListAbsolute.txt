@@ -1,0 +1,2 @@
+C:\Users\johnny\Dropbox\cpts_122\pa8\DiceGamePart1\Dice Game Tutorial Part 1\DiceGame\DiceGame\obj\x86\Debug\DiceGame.exe
+C:\Users\johnny\Dropbox\cpts_122\pa8\DiceGamePart1\Dice Game Tutorial Part 1\DiceGame\DiceGame\obj\x86\Debug\DiceGame.pdb
